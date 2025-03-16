@@ -33,12 +33,9 @@ namespace api.Service
                     {
                         return stock.ToStockFromFMP();
                     }
-                    else
-                    {
-                        return null;
-                    }
-                }
                     return null;
+                }
+                return null;
             }
             catch(Exception e)
             {
