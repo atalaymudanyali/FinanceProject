@@ -198,5 +198,4 @@ FinanceProject/
 - CORS blocked: `Program.cs` currently allows any origin for development; adjust for production.
 - Weak password errors: Identity password rules require uppercase, lowercase, digit, non-alphanumeric, length ≥ 12.
 
-## License
-Add your license here.
+
